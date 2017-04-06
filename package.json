@@ -1,0 +1,33 @@
+{
+  "name": "tuto-angular",
+  "version": "1.0.0",
+  "description": "for training",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docbrownAA/tutoAngular.git"
+  },
+  "keywords": [
+    "tuto",
+    "angular"
+  ],
+  "author": "gduvinage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/docbrownAA/tutoAngular/issues"
+  },
+  "homepage": "https://github.com/docbrownAA/tutoAngular#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-load-plugins":"latest",
+    "gulp-rename":"latest",
+    "gulp-csso":"latest",
+    "gulp-less":"latest",
+    "gulp-csscomb":"latest",
+    "gulp-cssbeautify":"latest",
+    "gulp-autoprefixer":"latest"
+  }
+}
